@@ -1,2 +1,3 @@
 # LGMVIP-Web-Task-1
-To do list using html, css, and javascript
+I have designed a To do list using html, css, and javascript.
+Where we can add our daily tasks
